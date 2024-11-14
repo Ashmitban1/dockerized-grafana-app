@@ -7,11 +7,11 @@ import logging
 app = Flask(__name__)
 
 # Database connection details
-DB_HOST = "autorack.proxy.rlwy.net"
-DB_PORT = "30549"
-DB_NAME = "railway"
-DB_USER = "postgres"
-DB_PASS = "feCDeC3CE6e2eCfD43bg11625f1Cg233"
+DB_HOST = ""
+DB_PORT = ""
+DB_NAME = ""
+DB_USER = ""
+DB_PASS = ""
 
 # Setup logging
 logging.basicConfig(level=logging.DEBUG)
