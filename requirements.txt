@@ -1,3 +1,4 @@
 flask
 pandas
 psycopg2
+python-dotenv
